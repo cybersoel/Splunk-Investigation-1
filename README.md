@@ -8,7 +8,7 @@ I investigated a malicious actor brute-forcing accounts on our organization's we
 
 <p align="center">
 <br/>
-<img src="" height="80%" width="80%" alt="portfolio"/>
+<img src="https://i.imgur.com/CSbrtgM.png" height="80%" width="80%" alt="portfolio"/>
 <br />
 
 
